@@ -64,9 +64,8 @@ Next.js + Auth.js login system with protected routes & sessions.
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=KrishModh&label=Visitors&color=3&icon=4&pretty=true" />
+  <img src="https://visitcount.itsvg.in/api?id=KrishModh&label=Profile%20Views&color=6&icon=5&pretty=true" />
 </p>
-
 
 ---
 
