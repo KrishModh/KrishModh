@@ -2,18 +2,18 @@
 <h3 align="center">🚀 Full Stack Web Developer | React | Next.js | Node.js | MongoDB | SQL | B.Tech CSE</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;React+%7C+Next.js+%7C+Node.js;Passionate+Coder+%F0%9F%92%BB;Always+Learning+New+Things&center=true&size=22&color=00C2FF" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;React+%7C+Next.js+%7C+Node.js;Passionate+Coder+💻;Always+Learning+New+Things&center=true&size=22&color=00C2FF" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me  
 
-- 🌱 Currently learning **Next.js, Auth.js, Advanced APIs & Backend Architecture**  
-- 💻 I create **modern, scalable, and clean full-stack web applications**  
-- 🚀 Passionate about **problem solving, UI/UX, performance & real-world projects**  
-- 🎓 Pursuing **B.Tech in Computer Science Engineering** at Parul University  
-- 📧 Reach me at **rmodh4@gmail.com**  
+- 🌱 Learning **Next.js, Auth.js, APIs & Backend Architecture**  
+- 💻 Building **modern, scalable and clean UI full-stack applications**  
+- 🚀 Passionate about **problem solving • UI/UX • performance optimization**  
+- 🎓 B.Tech CSE student at **Parul University**  
+- 📧 Email: **rmodh4@gmail.com**  
 - ⚡ Fun fact: **I debug more than I sleep 😅**
 
 ---
@@ -21,50 +21,61 @@
 # 🛠 Tech Stack & Tools  
 
 ### 🚀 **Frontend**
-<img src="https://skillicons.dev/icons?i=html,css,js,react,next,tailwind" />
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,next,tailwind" />
+</p>
 
 ### ⚙️ **Backend**
-<img src="https://skillicons.dev/icons?i=nodejs,express,python" />
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python" />
+</p>
 
 ### 🗄️ **Databases**
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
 
 ### 🧠 **Programming Languages**
-<img src="https://skillicons.dev/icons?i=java,python,cpp,c" />
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,c" />
+</p>
 
 ### 🧰 **Tools**
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
 
 ---
 
 # 📌 Featured Projects  
 
 ### 🔹 **Password Manager (React + Node.js)**  
-Secure password manager with authentication & encrypted data storage.  
+Secure password manager with encrypted storage & login auth.  
 **Tech:** React, Node.js, Express.js, MongoDB  
 
 ---
 
 ### 🔹 **Weather Forecast App**  
-Real-time weather, AQI insights, 7-day forecast & dynamic UI.  
+7-day forecast, AQI insight, dynamic UI & real-time weather API.  
 **Tech:** JavaScript, Python, Weather API  
 
 ---
 
 ### 🔹 **To-Do List App**  
-CRUD-based task manager with responsive design.  
+Responsive CRUD-based task manager.  
 **Tech:** React.js  
 
 ---
 
 ### 🔹 **Auth-Based Login System**  
-Next.js + Auth.js login system with protected routes & sessions.  
+Modern login using Next.js + Auth.js with protected routes.  
 **Tech:** Next.js, Auth.js  
 
 ---
 
+# 👀 Profile Views  
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=KrishModh&label=Profile%20Views&color=6&icon=5&pretty=true" />
+  <img src="https://visitcount.itsvg.in/api?id=KrishModh&label=Profile%20Views&color=0&icon=5&pretty=true" />
 </p>
 
 ---
@@ -78,8 +89,8 @@ Next.js + Auth.js login system with protected routes & sessions.
 
 # 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=KrishModh&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KrishModh&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=KrishModh&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishModh&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -94,4 +105,4 @@ Next.js + Auth.js login system with protected routes & sessions.
 ---
 
 <h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
-<h4 align="center">If you like my work, don't forget to ⭐ my repositories!</h4>
+<h4 align="center">If you like my work, consider giving a ⭐ to my repositories!</h4>
