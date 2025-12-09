@@ -51,10 +51,10 @@ Modern login system using Next.js + Auth.js with protected routes.
 
 ---
 
-### 📊 GitHub Stats  
+### 🔥 GitHub Streak
+
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=KrishModh&show_icons=true&theme=react" height="180" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KrishModh&layout=compact&theme=react" height="180" />
+  <img src="https://streak-stats.demolab.com?user=KrishModh&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </p>
 
 
