@@ -64,8 +64,9 @@ Next.js + Auth.js login system with protected routes & sessions.
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KrishModh&style=for-the-badge&color=0F9DFF&label=PROFILE+VIEWS" />
+  <img src="https://visitcount.itsvg.in/api?id=KrishModh&label=Visitors&color=3&icon=4&pretty=true" />
 </p>
+
 
 ---
 
