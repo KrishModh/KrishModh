@@ -1,5 +1,5 @@
 <h1 align="center">✨ Hi, I'm Krish Modh ✨</h1>
-<h3 align="center">🚀 Full Stack Web Developer | React | Next.js | Node.js | MongoDB | SQL | B.Tech CSE</h3>
+<h3 align="center">🚀 Full Stack Developer | Python • React • Databases | Cyber Security (AppSec) | B.Tech CSE</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;React+%7C+Next.js+%7C+Node.js;Passionate+Coder+💻;Always+Learning+New+Things&center=true&size=22&color=00C2FF" />
