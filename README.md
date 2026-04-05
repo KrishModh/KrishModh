@@ -10,7 +10,6 @@
 
 <img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-00C2FF?style=for-the-badge&logo=dev.to&logoColor=white"/>
 <img src="https://img.shields.io/badge/Focus-AppSec%20%7C%20Clean%20UI-7B2FBE?style=for-the-badge&logo=shield&logoColor=white"/>
-<img src="https://img.shields.io/badge/University-Parul%20University-0077B5?style=for-the-badge&logoColor=white"/>
 
 </div>
 
@@ -171,5 +170,5 @@ A professionally crafted **personal portfolio** showcasing my work, skills, and 
 
 <b>"I don't just write code — I engineer solutions."</b>
 <br/>
-<sub>Open to internships, collaborations & freelance projects 🚀</sub>
+<sub>Open to internships,JOb, collaborations & freelance projects 🚀</sub>
 </div>
