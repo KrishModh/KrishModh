@@ -9,7 +9,7 @@
 <br/>
 
 <img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-00C2FF?style=for-the-badge&logo=dev.to&logoColor=white"/>
-<img src="https://img.shields.io/badge/Focus-AppSec%20%7C%20Clean%20UI-7B2FBE?style=for-the-badge&logo=shield&logoColor=white"/>
+<img src="https://img.shields.io/badge/Focus-AppSec%20%7C%20Secure%20WebApp-7B2FBE?style=for-the-badge&logo=shield&logoColor=white"/>
 
 </div>
 
