@@ -1,132 +1,113 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00C2FF,100:7B2FBE&height=200&section=header&text=Krish%20Modh&fontSize=70&fontColor=FFFFFF&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AppSec%20Enthusiast&descAlignY=58&descSize=20&animation=fadeIn"/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=620&lines=Building+Full+Stack+Apps+%F0%9F%9A%80;React+%7C+Next.js+%7C+Node.js+%7C+Flask;Securing+Apps+with+AppSec+Mindset+%F0%9F%94%90;Turning+ideas+into+real+products+%E2%9C%A8" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-00C2FF?style=for-the-badge&logo=dev.to&logoColor=white"/>
-<img src="https://img.shields.io/badge/Focus-AppSec%20%7C%20Secure%20WebApp-7B2FBE?style=for-the-badge&logo=shield&logoColor=white"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:0A1628,100:00C2FF&height=180&section=header&text=Krish%20Modh&fontSize=64&fontColor=FFFFFF&fontAlignY=40&desc=Full%20Stack%20Engineer%20%E2%80%94%20Building%20Products%2C%20Not%20Just%20Code&descAlignY=60&descSize=17&animation=fadeIn"/>
 
 </div>
 
----
+<div align="center">
 
-## 👨‍💻 Who Am I?
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=00C2FF&center=true&vCenter=true&width=600&lines=Next.js+%C2%B7+Node.js+%C2%B7+React+%C2%B7+Supabase;Building+Saferics+%E2%80%94+B2B+SaaS+for+Indian+SMBs;Multi-tenant+Architecture+%C2%B7+Real-time+Chat;CSE+%40+Parul+University+%C2%B7+Batch+2024%E2%80%9328)](https://git.io/typing-svg)
 
-> **B.Tech CSE Student** building production-grade full-stack apps with a strong eye for **security, clean architecture & modern UI/UX.**
+</div>
 
-- 🔭 Currently working on **Zappy** — a real-time, end-to-end encrypted secure chat app
-- 🌱 Diving deep into **Next.js · Auth.js · REST APIs · Backend Architecture**
-- 🔐 Passionate about **Application Security (AppSec)** — I build things AND secure them
-- 💡 Love solving real problems with clean, scalable code
-- 📧 Reach me: **rmodh4@gmail.com**
-- ⚡ Fun fact: *I've fixed more bugs at 2 AM than most people create in a day* 😄
+<br/>
 
 ---
 
-## 🛠️ Tech Stack
+## `$ whoami`
+
+> B.Tech CSE student at Parul University & **founder of Amblora Technology** — the company behind [Saferics](https://saferics.com), a B2B SaaS communication platform built for Indian SMBs.
+
+I'm the solo technical co-founder — architecting, building, and shipping the entire stack while balancing college. I don't build tutorials. I build products.
+
+- 🏗️ **Currently shipping** → Saferics (multi-tenant WhatsApp-style B2B chat, approaching beta)
+- ⚡ **Stack I live in** → Next.js · Node.js/Express · Supabase (PostgreSQL) · Socket.io · Cloudinary
+- 🔐 **Obsessed with** → secure architecture, clean multi-tenant design, and systems that scale
+- 🇮🇳 **Building for India** → SMBs, real pricing, real infra (DigitalOcean VPS + Vercel)
+- 📬 **rmodh4@gmail.com** — open to internships & collabs
+
+---
+
+## 🛠️ Stack
 
 <div align="center">
 
-<b>Frontend</b><br/>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,next,tailwind&theme=dark" />
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,js,html,css&theme=dark"/>
 
 <br/><br/>
 
-<b>Backend & Databases</b><br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,mongodb,mysql&theme=dark" />
+**Backend & Infra**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,supabase,redis,nginx&theme=dark"/>
 
 <br/><br/>
 
-<b>Languages & Tools</b><br/>
-<img src="https://skillicons.dev/icons?i=java,python,cpp,c,git,github,vscode,postman&theme=dark" />
+**Tooling & Cloud**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,linux&theme=dark"/>
+
+<br/><br/>
+
+**Also worked with**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,flask,mongodb,java,cpp&theme=dark"/>
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
 <br/>
 
-<div align="center">
-<img src="https://img.shields.io/badge/PROJECT%20%231-Zappy%20%E2%80%94%20Secure%20Chat%20App-00C2FF?style=for-the-badge"/>
-</div>
+### `[01]` Saferics — B2B Team Chat for Indian SMBs
+> **Status: In Active Development → Beta Soon**
 
-<br/>
+A production-grade **multi-tenant B2B communication platform** — think Slack, but built specifically for Indian businesses. Subdomain-isolated workspaces, real-time messaging, file sharing, and calling infra.
 
-**🔒 Real-time encrypted messaging, built for privacy-first communication**
+**Architecture highlights:**
+- 🏢 **Multi-tenant** → wildcard subdomain routing (`company.saferics.com`), full tenant isolation at DB + storage layer
+- ⚡ **Real-time** → Socket.io with event-driven message delivery + read receipts
+- 🔒 **Secure media** → Cloudinary with signed URLs (no permanent public access)
+- 📞 **Calling infra** → LiveKit + Coturn on a dedicated VPS (8vCPU/16GB)
+- 💳 **Payments** → Razorpay integrated registration → workspace flow
 
-A full-stack **real-time chat application** with security at its core. Features end-to-end encrypted messaging, user authentication, live presence, and a sleek modern UI.
-
-**What makes it stand out:**
-- 🔐 End-to-end message encryption — AppSec-first design
-- ⚡ Real-time message delivery with WebSockets
-- 🛡️ Auth-protected rooms & secure sessions
-- 📱 Fully responsive modern UI
-
-**Tech Stack:**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+**Tech:**
+`Next.js` `Node.js/Express` `Supabase PostgreSQL` `Socket.io` `Cloudinary` `LiveKit` `Razorpay` `DigitalOcean` `Vercel`
 
 ---
 
-<div align="center">
-<img src="https://img.shields.io/badge/PROJECT%20%232-Hostel%20Management%20System-7B2FBE?style=for-the-badge"/>
-</div>
+### `[02]` Traveloop — AI Travel Planner
+> **Built at Odoo × Parul University Hackathon (Team Lead)**
 
-<br/>
+An AI-assisted travel planning web app — users describe their trip vibe and get a structured, personalized itinerary. Built under hackathon pressure as team lead, handling full-stack architecture and feature delivery.
 
-**🏨 Complete digital solution to manage hostel operations end-to-end**
-
-A robust **full-stack hostel management platform** that digitizes room allocation, student records, fee tracking, and admin operations — powered by a Python backend with FastAPI & Flask.
-
-**What makes it stand out:**
-- 🏠 Room allocation & real-time occupancy tracking
-- 💰 Fee management & payment records
-- 👤 Role-based access — Admin / Warden / Student
-- 📊 Live dashboard with occupancy stats
-- ⚡ FastAPI for high-performance backend endpoints
-
-**Tech Stack:**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+**Tech:** `React` `Node.js` `AI Integration`
 
 ---
 
-<div align="center">
-<img src="https://img.shields.io/badge/PROJECT%20%233-Portfolio%20Website-0077B5?style=for-the-badge"/>
-</div>
+### `[03]` Velluto — Cafe POS System
+> **Odoo × Parul University Hackathon · Final Round**
 
-<br/>
+A multi-role Point of Sale system for cafes — three separate portals (Admin, Cashier, Kitchen) with real-time order flow between them.
 
-**🌐 My personal brand — fast, modern & memorable**
+**Highlights:**
+- 🧑‍🍳 Kitchen live order queue with status updates
+- 💳 Razorpay payment + Cloudinary receipt storage
+- 🔐 JWT + RBAC across all three portals
 
-A professionally crafted **personal portfolio** showcasing my work, skills, and journey. Built with performance and design in mind, powered by a Python Flask backend.
+**Tech:** `React/Vite` `Flask` `PostgreSQL` `Razorpay` `Cloudinary` `JWT`
 
-**What makes it stand out:**
-- ✨ Smooth animations & modern UI/UX design
-- ⚡ Optimized performance & fast load times
-- 📱 Fully responsive across all devices
-- 🔗 Dynamic data served via Flask API
+---
 
-**Tech Stack:**
+### `[04]` Zappy — Secure Real-time Chat
+> **Personal Project**
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+End-to-end encrypted chat app — the prototype that eventually evolved into Saferics. MERN stack + Socket.io, auth-protected rooms, modern UI.
+
+**Tech:** `React` `Node.js` `Express` `MongoDB` `Socket.io`
 
 ---
 
@@ -134,41 +115,51 @@ A professionally crafted **personal portfolio** showcasing my work, skills, and 
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KrishModh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishModh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=KrishModh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishModh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=KrishModh&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=KrishModh&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🌐 Let's Connect
+## 🎓 Certifications
+
+- 🏆 **IBM** — Full Stack Development
+- ☁️ **Oracle OCI** — Cloud Infrastructure
+- 🥇 **Odoo × Parul University Hackathon** — Finalist
+
+---
+
+## 🤝 Let's Connect
 
 <div align="center">
 
-<a href="https://linkedin.com/in/krish-modh-b38447300" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://linkedin.com/in/krish-modh-b38447300">
+  <img src="https://img.shields.io/badge/LinkedIn-Krish%20Modh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
 <a href="mailto:rmodh4@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Drop%20a%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-rmodh4@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://visitcount.itsvg.in/api?id=KrishModh&label=Profile%20Views&color=9&icon=5&pretty=true" />
+<img src="https://visitcount.itsvg.in/api?id=KrishModh&label=Profile%20Views&color=6&icon=5&pretty=true"/>
 
 </div>
 
 <br/>
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FBE,50:00C2FF,100:0D1117&height=120&section=footer&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,60:0A1628,100:0D1117&height=110&section=footer&animation=fadeIn"/>
 
-<b>"I don't just write code — I engineer solutions."</b>
-<br/>
-<sub>Open to internships,JOb, collaborations & freelance projects 🚀</sub>
+```
+I don't just write code — I ship products.
+Open to internships · collabs · freelance → rmodh4@gmail.com
+```
+
 </div>
