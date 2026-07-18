@@ -13,149 +13,143 @@
 <br/>
 
 <div align="center">
-<img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-0D1117?style=for-the-badge&labelColor=00C2FF&color=0D1117"/>
-<img src="https://img.shields.io/badge/Focus-AppSec%20%2B%20SaaS-0D1117?style=for-the-badge&labelColor=00C2FF&color=0D1117"/>
-<img src="https://img.shields.io/badge/Status-Building%20%F0%9F%94%A5-0D1117?style=for-the-badge&labelColor=00C2FF&color=0D1117"/>
+
+![Role](https://img.shields.io/badge/ROLE-Full%20Stack%20Developer-00C2FF?style=flat-square&labelColor=0D1117&color=00C2FF)
+&nbsp;
+![Focus](https://img.shields.io/badge/FOCUS-AppSec%20%2B%20SaaS-00C2FF?style=flat-square&labelColor=0D1117&color=00C2FF)
+&nbsp;
+![Status](https://img.shields.io/badge/STATUS-Building%20%F0%9F%94%A5-00C2FF?style=flat-square&labelColor=0D1117&color=00C2FF)
+
 </div>
 
 <br/>
 
 ---
 
-<img align="right" width="38%" src="https://github-readme-stats.vercel.app/api?username=KrishModh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=00C2FF&icon_color=00C2FF&text_color=ffffff"/>
-
-## `>` About
+## 👤 About
 
 B.Tech CSE · Parul University · 2024–28
 
-Founder of **Amblora Technology** — building
-**Saferics**, a B2B communication platform
-for Indian SMBs.
+Founder & Solo Technical Co-founder — building **Saferics**, a B2B team chat platform for Indian SMBs.
 
-Solo technical co-founder. Full stack.
-Shipping real products, not side projects.
+Full stack. Shipping real products, not side projects.
 
-**AppSec isn't a feature I add.**  
+**AppSec isn't a feature I add.**
 **It's how I think from line one.**
 
-- 🌐 [krishmodh.site](https://www.krishmodh.site)
+- 🌐 [krishmodh.vercel.app](https://krishmodh.vercel.app)
 - 📬 rmodh4@gmail.com
 
-<br clear="right"/>
-
 ---
 
-## `>` Stack
+## 🛠️ Stack
 
 <div align="center">
 
-![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=next.js&logoColor=ffffff)
-![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=00C2FF)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
-![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=68A063)
-![Express](https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express&logoColor=ffffff)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=336791)
-![Supabase](https://img.shields.io/badge/Supabase-0D1117?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
-![Socket.io](https://img.shields.io/badge/Socket.io-0D1117?style=for-the-badge&logo=socket.io&logoColor=ffffff)
-![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-0D1117?style=for-the-badge&logo=cloudinary&logoColor=3448C5)
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)
-![Flask](https://img.shields.io/badge/Flask-0D1117?style=for-the-badge&logo=flask&logoColor=ffffff)
-![Vercel](https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=ffffff)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0D1117?style=for-the-badge&logo=digitalocean&logoColor=0080FF)
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Postgres](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
 ---
 
-## `>` What's Cooking
+## ⚡ What's Brewing
 
 <div align="center">
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                                                                 │
-│   ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   │
-│   ░                                                         ░   │
-│   ░        ⚡  S A F E R I C S  ⚡                          ░   │
-│   ░                                                         ░   │
-│   ░        B2B Team Chat · Built for Indian SMBs            ░   │
-│   ░        Multi-tenant · Real-time · Secure                ░   │
-│   ░                                                         ░   │
-│   ░        [ STATUS: IN DEVELOPMENT — BETA SOON ]           ░   │
-│   ░                                                         ░   │
-│   ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
-```
+<img src="https://img.shields.io/badge/──────────────────────────────────────────────────────-0D1117?style=for-the-badge"/>
+
+### 🔒 SAFERICS
+
+**B2B Team Chat · Built for Indian SMBs**
+
+`Multi-tenant` &nbsp; `Real-time` &nbsp; `Secure` &nbsp; `Scalable`
+
+![Status](https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT%20%E2%80%94%20BETA%20SOON-00C2FF?style=for-the-badge&labelColor=0D1117)
+
+<img src="https://img.shields.io/badge/──────────────────────────────────────────────────────-0D1117?style=for-the-badge"/>
+
+*Something meaningful is being built. Stay tuned.*
 
 </div>
 
 ---
 
-## `>` Projects
+## 🚀 Projects
 
 <br/>
 
-**`01` · Krish Portfolio OS** &nbsp;·&nbsp; [🌐 Live](https://www.krishmodh.site)
+### 🗂️ Krish Portfolio OS &nbsp; · &nbsp; [🌐 Live](https://krishmodh.vercel.app)
 
-> Production-grade portfolio platform — public site + private admin dashboard + secure REST API. Not a template. An actual system.
+> Production-grade portfolio platform — public site + private admin dashboard + secure REST API. Not a template. An actual engineered system.
 
-![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=00C2FF)
-![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=node.js&logoColor=68A063)
-![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=47A248)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-0D1117?style=flat-square&logo=cloudinary&logoColor=3448C5)
-![JWT](https://img.shields.io/badge/JWT-0D1117?style=flat-square&logo=jsonwebtokens&logoColor=ffffff)
-![Helmet](https://img.shields.io/badge/Helmet-0D1117?style=flat-square&logo=helmet&logoColor=ffffff)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Helmet](https://img.shields.io/badge/Helmet.js-000000?style=flat-square&logo=helmet&logoColor=white)
 
-Security highlights → HTTP-only cookies · Helmet headers · Rate limiting · NoSQL injection guard · XSS sanitization · CORS allowlisting
+`HTTP-only cookies` `Helmet headers` `Rate limiting` `NoSQL injection guard` `XSS sanitization` `CORS allowlisting`
 
 <br/>
 
-**`02` · Zappy — Real-Time Secure Chat**
+### 💬 Zappy — Real-Time Secure Chat
 
 > My AppSec learning ground. Full-stack chat with security-first architecture. Phase 2 = live vulnerability testing lab.
 
-![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=00C2FF)
-![Socket.io](https://img.shields.io/badge/Socket.io-0D1117?style=flat-square&logo=socket.io&logoColor=ffffff)
-![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=47A248)
-![JWT](https://img.shields.io/badge/JWT-0D1117?style=flat-square&logo=jsonwebtokens&logoColor=ffffff)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
-Typing indicators · read receipts · OTP signup · image sharing · edit & delete · dark/light mode
-
-<br/>
-
-**`03` · Traveloop — AI Travel Planner** &nbsp;·&nbsp; 🏆 *Odoo × Parul Hackathon — Qualifying Round*
-
-> Team Lead. Built a full-stack AI-assisted travel planning platform under hackathon pressure — itineraries, budget tracking, packing lists, shareable trip links.
-
-![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=00C2FF)
-![Flask](https://img.shields.io/badge/Flask-0D1117?style=flat-square&logo=flask&logoColor=ffffff)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=336791)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-0D1117?style=flat-square&logo=cloudinary&logoColor=3448C5)
+`Typing indicators` `Read receipts` `OTP signup` `Image sharing` `Dark/light mode`
 
 <br/>
 
-**`04` · Velluto — Multi-Portal Cafe POS** &nbsp;·&nbsp; 🏆 *Odoo × Parul Hackathon — Final Round*
+### ✈️ Traveloop — AI Travel Planner &nbsp; · &nbsp; 🏆 *Odoo × Parul Hackathon — Qualifying Round · Team Lead*
 
-> Team Lead. Three separate portals (Admin · Cashier · Kitchen) wired to one Flask API. Real-time order flow, Razorpay checkout, auto PDF invoices, JWT + RBAC.
+> Full-stack AI-assisted travel planning. Itineraries, budget tracking, packing lists, travel journal, shareable trip links — built under hackathon pressure.
 
-![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=00C2FF)
-![Flask](https://img.shields.io/badge/Flask-0D1117?style=flat-square&logo=flask&logoColor=ffffff)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=336791)
-![Razorpay](https://img.shields.io/badge/Razorpay-0D1117?style=flat-square&logo=razorpay&logoColor=02042B)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
+
+<br/>
+
+### ☕ Velluto — Multi-Portal Cafe POS &nbsp; · &nbsp; 🏆 *Odoo × Parul Hackathon — Final Round · Team Lead*
+
+> Three purpose-built portals (Admin · Cashier · Kitchen) on one Flask API. Real-time order flow, Razorpay checkout, auto PDF invoices, JWT + RBAC.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=white)
 
 ---
 
-## `>` Achievements
+## 🏆 Achievements
 
 <div align="center">
 
 | | |
 |:---:|:---|
-| 🏆 | **Odoo × Parul University Hackathon** — Qualified + Reached Finals as Team Lead |
+| 🥇 | **Odoo × Parul University Hackathon** — Qualified + Reached Finals as Team Lead |
 | 🎓 | **IBM** — Full Stack Development Certification |
 | ☁️ | **Oracle OCI** — Cloud Infrastructure Foundations |
 
@@ -163,36 +157,34 @@ Typing indicators · read receipts · OTP signup · image sharing · edit & dele
 
 ---
 
-## `>` Stats
+## 📊 Stats
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishModh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C2FF&text_color=ffffff&langs_count=8"/>
-<img height="160em" src="https://streak-stats.demolab.com?user=KrishModh&theme=tokyonight&hide_border=true&background=0D1117&ring=00C2FF&fire=00C2FF&currStreakLabel=00C2FF"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=KrishModh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00C2FF&icon_color=00C2FF&text_color=ffffff"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishModh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C2FF&text_color=ffffff&langs_count=8"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KrishModh&theme=tokyo-night&bg_color=0D1117&color=00C2FF&line=00C2FF&point=ffffff&hide_border=true"/>
 
 </div>
 
 ---
 
-## `>` Connect
+## 🤝 Connect
 
 <div align="center">
 
-<a href="https://linkedin.com/in/krish-modh-b38447300">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00C2FF&label=Krish+Modh"/>
-</a>
-&nbsp;&nbsp;
-<a href="mailto:rmodh4@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335&label=rmodh4"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://www.krishmodh.site">
-<img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=00C2FF&label=krishmodh.site"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Krish%20Modh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krish-modh-b38447300)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-rmodh4@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rmodh4@gmail.com)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-krishmodh.vercel.app-00C2FF?style=for-the-badge&logo=vercel&logoColor=white)](https://krishmodh.vercel.app)
 
-<br/><br/>
+<br/>
 
-<img src="https://visitcount.itsvg.in/api?id=KrishModh&label=Profile%20Views&color=6&icon=5&pretty=true"/>
+![Profile Views](https://komarev.com/ghpvc/?username=KrishModh&color=00C2FF&style=flat-square&label=Profile+Views)
 
 </div>
 
