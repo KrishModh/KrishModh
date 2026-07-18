@@ -166,6 +166,10 @@ Full stack. Shipping real products, not side projects.
 
 <br/>
 
+<img src="https://streak-stats.demolab.com?user=KrishModh&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=00C2FF&fire=00C2FF&currStreakLabel=00C2FF&sideLabels=00C2FF&dates=ffffff&stroke=00C2FF"/>
+
+<br/>
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=KrishModh&theme=tokyo-night&bg_color=0D1117&color=00C2FF&line=00C2FF&point=ffffff&hide_border=true"/>
 
 </div>
