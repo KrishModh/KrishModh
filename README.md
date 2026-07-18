@@ -1,12 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:0A1628,100:00C2FF&height=180&section=header&text=Krish%20Modh&fontSize=64&fontColor=FFFFFF&fontAlignY=40&desc=Full%20Stack%20Engineer%20%E2%80%94%20Building%20Products%2C%20Not%20Just%20Code&descAlignY=60&descSize=17&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0A1628,100:00C2FF&height=170&section=header&text=Krish%20Modh&fontSize=62&fontColor=FFFFFF&fontAlignY=42&desc=Full%20Stack%20Developer%20%C2%B7%20AppSec%20Enthusiast%20%C2%B7%20Building%20Real%20Products&descAlignY=62&descSize=15&animation=fadeIn"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=00C2FF&center=true&vCenter=true&width=600&lines=Next.js+%C2%B7+Node.js+%C2%B7+React+%C2%B7+Supabase;Building+Saferics+%E2%80%94+B2B+SaaS+for+Indian+SMBs;Multi-tenant+Architecture+%C2%B7+Real-time+Chat;CSE+%40+Parul+University+%C2%B7+Batch+2024%E2%80%9328)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&pause=1200&color=00C2FF&center=true&vCenter=true&width=650&lines=React+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+Supabase+%C2%B7+Socket.io;Building+Saferics+%E2%80%94+B2B+SaaS+for+Indian+SMBs+%F0%9F%9A%80;Security-first+architecture%2C+always.+%F0%9F%94%90;CSE+%40+Parul+University+%C2%B7+2024%E2%80%932028)](https://git.io/typing-svg)
 
 </div>
 
@@ -16,15 +16,39 @@
 
 ## `$ whoami`
 
-> B.Tech CSE student at Parul University & **founder of Amblora Technology** — the company behind [Saferics](https://saferics.com), a B2B SaaS communication platform built for Indian SMBs.
+I'm a **Full Stack Developer** and **Application Security enthusiast** — B.Tech CSE student at Parul University and founder of **Amblora Technology**, the company behind **Saferics**.
 
-I'm the solo technical co-founder — architecting, building, and shipping the entire stack while balancing college. I don't build tutorials. I build products.
+I don't build tutorials. I build products — and I secure them.
 
-- 🏗️ **Currently shipping** → Saferics (multi-tenant WhatsApp-style B2B chat, approaching beta)
-- ⚡ **Stack I live in** → Next.js · Node.js/Express · Supabase (PostgreSQL) · Socket.io · Cloudinary
-- 🔐 **Obsessed with** → secure architecture, clean multi-tenant design, and systems that scale
-- 🇮🇳 **Building for India** → SMBs, real pricing, real infra (DigitalOcean VPS + Vercel)
-- 📬 **rmodh4@gmail.com** — open to internships & collabs
+- 🏗️ **Currently building** → Saferics, a production-grade B2B team chat platform for Indian SMBs
+- 🔐 **AppSec mindset** → Security isn't a layer I add later. It's how I architect from day one — JWT in HTTP-only cookies, rate limiting, input sanitization, NoSQL injection guards. Still learning, always applying.
+- ⚡ **Stack I live in** → Next.js · Node.js/Express · Supabase · Socket.io · Cloudinary · PostgreSQL
+- 🇮🇳 **Building for India** → Real infra, real pricing, real users
+- 📬 Reach me → **rmodh4@gmail.com**
+
+---
+
+## 🔭 What's Brewing
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════╗
+║                                                          ║
+║           ⚡  SAFERICS  —  COMING SOON  ⚡              ║
+║                                                          ║
+║     B2B Team Communication · Built for Indian SMBs      ║
+║                                                          ║
+║     Multi-tenant · Real-time · Secure · Scalable        ║
+║                                                          ║
+║              [ Currently: Development Phase ]           ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+*Something meaningful is being built. Stay tuned.*
+
+</div>
 
 ---
 
@@ -34,17 +58,17 @@ I'm the solo technical co-founder — architecting, building, and shipping the e
 
 **Frontend**
 <br/>
-<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,js,html,css&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=nextjs,react,js,tailwind,html,css&theme=dark"/>
 
 <br/><br/>
 
-**Backend & Infra**
+**Backend & Databases**
 <br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,supabase,redis,nginx&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,supabase,mongodb,redis&theme=dark"/>
 
 <br/><br/>
 
-**Tooling & Cloud**
+**Tools & Cloud**
 <br/>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,linux&theme=dark"/>
 
@@ -52,7 +76,7 @@ I'm the solo technical co-founder — architecting, building, and shipping the e
 
 **Also worked with**
 <br/>
-<img src="https://skillicons.dev/icons?i=python,flask,mongodb,java,cpp&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,flask,java,cpp,mysql&theme=dark"/>
 
 </div>
 
@@ -62,52 +86,76 @@ I'm the solo technical co-founder — architecting, building, and shipping the e
 
 <br/>
 
-### `[01]` Saferics — B2B Team Chat for Indian SMBs
-> **Status: In Active Development → Beta Soon**
+### `[01]` Krish Portfolio OS — Full-Stack Portfolio Platform
 
-A production-grade **multi-tenant B2B communication platform** — think Slack, but built specifically for Indian businesses. Subdomain-isolated workspaces, real-time messaging, file sharing, and calling infra.
-
-**Architecture highlights:**
-- 🏢 **Multi-tenant** → wildcard subdomain routing (`company.saferics.com`), full tenant isolation at DB + storage layer
-- ⚡ **Real-time** → Socket.io with event-driven message delivery + read receipts
-- 🔒 **Secure media** → Cloudinary with signed URLs (no permanent public access)
-- 📞 **Calling infra** → LiveKit + Coturn on a dedicated VPS (8vCPU/16GB)
-- 💳 **Payments** → Razorpay integrated registration → workspace flow
-
-**Tech:**
-`Next.js` `Node.js/Express` `Supabase PostgreSQL` `Socket.io` `Cloudinary` `LiveKit` `Razorpay` `DigitalOcean` `Vercel`
-
----
-
-### `[02]` Traveloop — AI Travel Planner
-> **Built at Odoo × Parul University Hackathon (Team Lead)**
-
-An AI-assisted travel planning web app — users describe their trip vibe and get a structured, personalized itinerary. Built under hackathon pressure as team lead, handling full-stack architecture and feature delivery.
-
-**Tech:** `React` `Node.js` `AI Integration`
-
----
-
-### `[03]` Velluto — Cafe POS System
-> **Odoo × Parul University Hackathon · Final Round**
-
-A multi-role Point of Sale system for cafes — three separate portals (Admin, Cashier, Kitchen) with real-time order flow between them.
+A production-grade personal portfolio built like a real SaaS product. Public-facing portfolio + private admin dashboard + secure REST API — wired together with MongoDB Atlas, Cloudinary, JWT auth, and a full security middleware stack.
 
 **Highlights:**
-- 🧑‍🍳 Kitchen live order queue with status updates
-- 💳 Razorpay payment + Cloudinary receipt storage
-- 🔐 JWT + RBAC across all three portals
+- 🔐 JWT sessions, HTTP-only cookies, Helmet headers, CORS allowlisting
+- ⚡ Rate limiting (global + per-route), NoSQL injection guard, XSS sanitization
+- 🛡️ Full admin CRUD — projects, certificates, messages, profile settings
+- 🎞️ Framer Motion animations, dark/light theme, fully responsive
+- ☁️ Cloudinary asset management with upload + delete pipeline
 
-**Tech:** `React/Vite` `Flask` `PostgreSQL` `Razorpay` `Cloudinary` `JWT`
+**Tech:** `React` `Vite` `Node.js` `Express` `MongoDB Atlas` `Cloudinary` `JWT` `Helmet`
+
+🌐 [Live Portfolio](https://www.krishmodh.site)
 
 ---
 
-### `[04]` Zappy — Secure Real-time Chat
-> **Personal Project**
+### `[02]` Zappy — Secure Real-Time Chat App
 
-End-to-end encrypted chat app — the prototype that eventually evolved into Saferics. MERN stack + Socket.io, auth-protected rooms, modern UI.
+A full-stack real-time chat platform built security-first — this was my AppSec learning ground. Features end-to-end secure sessions, real-time messaging, and media sharing. Phase 2 will turn it into a live vulnerability testing lab.
 
-**Tech:** `React` `Node.js` `Express` `MongoDB` `Socket.io`
+**Highlights:**
+- 💬 Real-time messaging via Socket.io — typing indicators, read receipts, last seen
+- 🔒 JWT in HTTP-only cookies, rate limiting, input sanitization, mongo-sanitize
+- 🖼️ Image sharing with Cloudinary, message edit/delete, OTP-based signup
+- 🌙 Dark/light mode, WhatsApp-inspired UI, fully responsive
+
+**Tech:** `React` `Node.js` `Express` `MongoDB` `Socket.io` `Cloudinary` `JWT`
+
+---
+
+### `[03]` Traveloop — AI-Assisted Travel Planning Platform
+> 🏆 *Odoo × Parul University Hackathon — Qualifying Round | Team Lead*
+
+Full-stack travel planning app — from "I want to go somewhere" to a fully structured, shareable plan. Built under hackathon pressure as Team Lead, handling architecture and core feature delivery.
+
+**Highlights:**
+- 🗺️ City-by-city itinerary builder with activity timings & cost tracking
+- 💰 Budget intelligence — auto-calculated from itinerary, no manual entry
+- 🎒 Categorized packing checklist + travel journal with image uploads
+- 🔗 Public shareable trip links, live global search
+- 🔐 JWT auth + Google email ownership verification
+
+**Tech:** `React` `Vite` `Python Flask` `PostgreSQL` `Cloudinary` `JWT`
+
+---
+
+### `[04]` Velluto — Multi-Portal Cafe POS System
+> 🏆 *Odoo × Parul University Hackathon — Final Round | Team Lead*
+
+Three purpose-built portals — Admin, Cashier, Kitchen — all connected to one Flask API. Built to solve the disconnected single-screen POS problem.
+
+**Highlights:**
+- 🍳 Kitchen Display System — real-time To Cook → Cooking → Completed order flow
+- 💳 Cashier portal with interactive table map + Razorpay checkout + auto PDF invoices
+- 🖥️ Admin dashboard with inventory, analytics, coupon engine & staff management
+- 🔐 JWT + RBAC locking each portal to the right role
+- 📦 Stock auto-deducts as orders move through the kitchen
+
+**Tech:** `React` `Vite` `Flask` `PostgreSQL` `Razorpay` `Cloudinary` `JWT`
+
+---
+
+## 🏆 Hackathons & Certifications
+
+| | |
+|---|---|
+| 🥇 **Odoo × Parul University Hackathon** | Qualified → Reached the Final Round (out of all participants) |
+| 🎓 **IBM** | Full Stack Development |
+| ☁️ **Oracle OCI** | Cloud Infrastructure Foundations |
 
 ---
 
@@ -126,24 +174,20 @@ End-to-end encrypted chat app — the prototype that eventually evolved into Saf
 
 ---
 
-## 🎓 Certifications
-
-- 🏆 **IBM** — Full Stack Development
-- ☁️ **Oracle OCI** — Cloud Infrastructure
-- 🥇 **Odoo × Parul University Hackathon** — Finalist
-
----
-
 ## 🤝 Let's Connect
 
 <div align="center">
 
 <a href="https://linkedin.com/in/krish-modh-b38447300">
-  <img src="https://img.shields.io/badge/LinkedIn-Krish%20Modh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Krish%20Modh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
 <a href="mailto:rmodh4@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-rmodh4@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.krishmodh.site">
+  <img src="https://img.shields.io/badge/Portfolio-krishmodh.site-00C2FF?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <br/><br/>
@@ -158,8 +202,7 @@ End-to-end encrypted chat app — the prototype that eventually evolved into Saf
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,60:0A1628,100:0D1117&height=110&section=footer&animation=fadeIn"/>
 
 ```
-I don't just write code — I ship products.
-Open to internships · collabs · freelance → rmodh4@gmail.com
+Open to internships · collaborations · freelance
 ```
 
 </div>
