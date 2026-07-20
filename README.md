@@ -150,7 +150,7 @@ Full stack. Shipping real products, not side projects.
 | | |
 |:---:|:---|
 | 🥇 | **Odoo × Parul University Hackathon** — Qualified + Reached Finals as Team Lead |
-| 🎓 | **IBM** — Full Stack Development Certification |
+| 🎓 | **IBM** — Python Certification |
 | ☁️ | **Oracle OCI** — Cloud Infrastructure Foundations |
 
 </div>
