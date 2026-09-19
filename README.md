@@ -1,256 +1,115 @@
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:0d1f2d,100:00C2FF&height=220&section=header&text=Krish%20Modh&fontSize=70&fontColor=ffffff&fontAlignY=42&desc=Full%20Stack%20Developer%20%E2%80%A2%20AppSec%20Enthusiast%20%E2%80%A2%20B.Tech%20CSE&descSize=15&descAlignY=62&animation=fadeIn"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:0D1117,70:00243a,100:00C2FF&height=200&section=header&text=KRISH+MODH&fontSize=75&fontColor=ffffff&fontAlignY=45&desc=Full+Stack+Developer+%C2%B7+AppSec+Enthusiast&descSize=16&descAlignY=65&animation=fadeIn"/>
 </div>
-
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=1200&color=00C2FF&center=true&vCenter=true&repeat=true&width=650&lines=Building+production-grade+web+applications+%F0%9F%9A%80;React+%C2%B7+Node.js+%C2%B7+Flask+%C2%B7+PostgreSQL+%C2%B7+MongoDB;Security-first+architecture+%E2%80%94+always+%F0%9F%94%90;OWASP+Top+10+%C2%B7+JWT+%C2%B7+RBAC+%C2%B7+XSS+Prevention;CSE+%40+Parul+University+%C2%B7+Batch+2024%E2%80%9328)](https://git.io/typing-svg)
-
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1000&color=00C2FF&center=true&vCenter=true&repeat=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;React+%C2%B7+Node.js+%C2%B7+Flask+%C2%B7+PostgreSQL;Security-first.+Always.+%F0%9F%94%90;CSE+%40+Parul+University+%C2%B7+Batch+2024%E2%80%9328)
 </div>
-
 <br/>
-
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krish-modh-b38447300)
-&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00C2FF?style=for-the-badge&logo=vercel&logoColor=white)](https://krishmodh.vercel.app)
-&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rmodh4@gmail.com)
-
+![Role](https://img.shields.io/badge/ROLE-Full%20Stack%20Developer-00C2FF?style=flat-square&labelColor=0D1117&color=00C2FF)
+ 
+![Focus](https://img.shields.io/badge/FOCUS-AppSec%20%2B%20Web%20Dev-00C2FF?style=flat-square&labelColor=0D1117&color=00C2FF)
+ 
+![Status](https://img.shields.io/badge/STATUS-Building%20%F0%9F%94%A5-00C2FF?style=flat-square&labelColor=0D1117&color=00C2FF)
 </div>
-
 <br/>
-
 ---
-
-<div align="center">
-
-## `$ whoami`
-
-</div>
-
-```yaml
-Name       : Krish Modh
-Education  : B.Tech CSE @ Parul University (2024-28)
-Role       : Full Stack Developer
-Focus      : Web Development | Application Security | API Design
-Stack      : React · Node.js · Flask · PostgreSQL · MongoDB
-Security   : JWT Auth · OWASP Top 10 · XSS Prevention · RBAC · Rate Limiting
-Cloud      : AWS · Oracle OCI · Microsoft Azure
-Approach   : Build → Analyze → Break → Fix → Improve
-Contact    : rmodh4@gmail.com
-```
-
+👤 About
+B.Tech CSE · Parul University · 2024–28
+Full stack developer with a security-first mindset.
+Building real systems, not side projects.
+AppSec isn't a feature I add.
+It's how I think from line one.
+🌐 krishmodh.vercel.app
+📬 rmodh4@gmail.com
 ---
-
+🛠️ Stack
 <div align="center">
-
-## ⚡ Tech Stack
-
-</div>
-
-<div align="center">
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Postgres](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-
-**Databases & Cloud**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle%20OCI-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
-**Security & Tools**
-
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-
+![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 </div>
-
 ---
-
-<div align="center">
-
-## 🚀 Featured Projects
-
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ☕ Velluto Cafe POS
-> 🏆 Odoo × Parul Hackathon — **Final Round** · Team Lead
-
-Production-grade multi-portal restaurant POS. 3 role-based React frontends (Admin · Cashier · Kitchen) on one Flask API.
-
-**Highlights:**
-- Live Razorpay payment + signature verification
-- JWT + RBAC — scoped tokens per portal
-- Real-time Kitchen Display System
-- Auto PDF invoice emails via Resend API
-
-![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white)
+🚀 Projects
+<br/>
+🗂️ Krish Portfolio OS   ·   🌐 Live
+> Production-grade portfolio platform — public site + private admin dashboard + secure REST API. Not a template. An actual engineered system.
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### ✈️ Traveloop
-> 🏆 Odoo × Parul Hackathon — **Qualifying Round** · Team Lead
-
-AI-assisted full-stack travel planning platform. Itinerary builder, budget tracker, packing lists, travel journal, public trip sharing.
-
-**Highlights:**
-- Google email verification flow
-- JWT session + bcrypt password hashing
-- Normalized PostgreSQL schema (8 tables)
-- Real-time budget calculations from itinerary data
-
-![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+`HTTP-only cookies` `Helmet headers` `Rate limiting` `NoSQL injection guard` `XSS sanitization` `CORS allowlisting`
+<br/>
+💬 Zappy — Real-Time Secure Chat   ·   🌐 Live
+> Full-stack chat with security-first architecture. OTP auth, JWT in HTTP-only cookies, MongoDB injection prevention, rate limiting, real-time messaging.
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+`OTP signup` `XSS protection` `Injection prevention` `Typing indicators` `Image sharing`
+<br/>
+✈️ Traveloop — AI Travel Planner   ·   🏆 Odoo × Parul Hackathon — Qualifying Round · Team Lead
+> Full-stack AI-assisted travel planning. Itineraries, budget tracking, packing lists, travel journal, shareable trip links — built under hackathon pressure.
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🔒 Zappy — Secure Real-Time Chat
-> [🌐 Live Demo](https://zappy-nine.vercel.app)
-
-Security-first full-stack chat application. Built to understand and implement defensive web development from ground up.
-
-**Security Stack:**
-- JWT in HTTP-only cookies (XSS protection)
-- MongoDB injection prevention (mongo-sanitize)
-- Rate limiting on all auth routes
-- OTP signup · Input sanitization · Winston logging
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+<br/>
+☕ Velluto — Multi-Portal Cafe POS   ·   🏆 Odoo × Parul Hackathon — Final Round · Team Lead
+> Three purpose-built portals (Admin · Cashier · Kitchen) on one Flask API. Real-time order flow, Razorpay checkout, auto PDF invoices, JWT + RBAC.
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### 🏨 Hostel Management System
-
-Full-stack hostel management platform with strict Role-Based Access Control across Admin, Warden, and Student roles.
-
-**Highlights:**
-- Complete room & bed allocation system
-- Leave request workflow (apply → approve → reject)
-- Complaint lifecycle management
-- Responsive dark/light UI with glassmorphism
-
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=white)
+<br/>
+🏨 Hostel Management System
+> Role-based platform (Admin · Warden · Student) with strict RBAC, room allocation, leave management, complaint tracking, and mess menu control.
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white)
-
-</td>
-</tr>
-</table>
-
 ---
-
+🏆 Achievements
 <div align="center">
-
-## 🏆 Certifications & Achievements
-
+	
+🥇	Odoo × Parul University Hackathon — Qualified + Reached Finals as Team Lead
+🛡️	IBM — Cybersecurity Fundamentals & Python Certification
+🤖	IBM SkillsBuild — Getting Started with Artificial Intelligence
+☁️	Oracle OCI — AI Foundations Certified Associate
+☁️	AWS — Cloud Foundations + Cloud Practitioner Essentials
 </div>
-
-<div align="center">
-
-| Badge | Certification | Issuer | Year |
-|:---:|:---|:---|:---:|
-| ☁️ | AWS Cloud Practitioner Essentials | Amazon Web Services | 2026 |
-| ☁️ | AWS Academy Graduate — Cloud Foundations | Amazon Web Services | 2026 |
-| 🛡️ | Cybersecurity Fundamentals | IBM SkillsBuild | 2025 |
-| 🤖 | Getting Started with Artificial Intelligence | IBM SkillsBuild | 2025 |
-| 🔮 | OCI 2025 Certified AI Foundations Associate | Oracle University | 2025 |
-| 🐍 | Python — Developer Skills Network | IBM | 2025 |
-| 🥇 | Odoo × Parul Hackathon — Finals | Team Lead · Full Stack | 2026 |
-
-</div>
-
 ---
-
+📊 Stats
 <div align="center">
-
-## 📊 GitHub Stats
-
-</div>
-
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=KrishModh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00C2FF&icon_color=00C2FF&text_color=ffffff"/>
-&nbsp;
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishModh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C2FF&text_color=ffffff&langs_count=8"/>
-
-</div>
-
-<div align="center">
-
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=KrishModh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00C2FF&icon_color=00C2FF&text_color=ffffff"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishModh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C2FF&text_color=ffffff&langs_count=8"/>
+<br/>
 <img src="https://streak-stats.demolab.com?user=KrishModh&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=00C2FF&fire=00C2FF&currStreakLabel=00C2FF&sideLabels=00C2FF&dates=ffffff&stroke=00C2FF"/>
-
+<br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KrishModh&theme=tokyo-night&bg_color=0D1117&color=00C2FF&line=00C2FF&point=ffffff&hide_border=true"/>
 </div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KrishModh&theme=tokyo-night&bg_color=0D1117&color=00C2FF&line=00C2FF&point=ffffff&hide_border=true&area=true"/>
-
-</div>
-
 ---
-
+🤝 Connect
 <div align="center">
-
-## 🤝 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Krish%20Modh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krish-modh-b38447300)
-&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-rmodh4@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rmodh4@gmail.com)
-&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-krishmodh.vercel.app-00C2FF?style=for-the-badge&logo=vercel&logoColor=white)](https://krishmodh.vercel.app)
-
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Krish%20Modh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+ 
+![Gmail](https://img.shields.io/badge/Gmail-rmodh4@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
+ 
+![Portfolio](https://img.shields.io/badge/Portfolio-krishmodh.vercel.app-00C2FF?style=for-the-badge&logo=vercel&logoColor=white)
 <br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=KrishModh&color=00C2FF&style=for-the-badge&label=Profile+Views)
-
+![Profile Views](https://komarev.com/ghpvc/?username=KrishModh&color=00C2FF&style=flat-square&label=Profile+Views)
 </div>
-
 <br/>
-
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,50:0d1f2d,100:0a0a0a&height=120&section=footer&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,40:00243a,100:0D1117&height=120&section=footer&animation=fadeIn"/>
 </div>
