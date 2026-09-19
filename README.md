@@ -1,12 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:0D1117,70:00243a,100:00C2FF&height=200&section=header&text=KRISH+MODH&fontSize=75&fontColor=ffffff&fontAlignY=45&desc=Full+Stack+Developer+%C2%B7+AppSec+Enthusiast+%C2%B7+Founder&descSize=16&descAlignY=65&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:0D1117,70:00243a,100:00C2FF&height=200&section=header&text=KRISH+MODH&fontSize=75&fontColor=ffffff&fontAlignY=45&desc=Full+Stack+Developer+%C2%B7+AppSec+Enthusiast&descSize=16&descAlignY=65&animation=fadeIn"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1000&color=00C2FF&center=true&vCenter=true&repeat=true&width=600&lines=Building+Saferics+%E2%80%94+B2B+SaaS+for+Indian+SMBs+%F0%9F%9A%80;Next.js+%C2%B7+Node.js+%C2%B7+Supabase+%C2%B7+Socket.io;Security-first.+Always.+%F0%9F%94%90;CSE+%40+Parul+University+%C2%B7+Batch+2024%E2%80%9328)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1000&color=00C2FF&center=true&vCenter=true&repeat=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;React+%C2%B7+Node.js+%C2%B7+Flask+%C2%B7+PostgreSQL;Security-first.+Always.+%F0%9F%94%90;CSE+%40+Parul+University+%C2%B7+Batch+2024%E2%80%9328)](https://git.io/typing-svg)
 
 </div>
 
@@ -16,7 +16,7 @@
 
 ![Role](https://img.shields.io/badge/ROLE-Full%20Stack%20Developer-00C2FF?style=flat-square&labelColor=0D1117&color=00C2FF)
 &nbsp;
-![Focus](https://img.shields.io/badge/FOCUS-AppSec%20%2B%20SaaS-00C2FF?style=flat-square&labelColor=0D1117&color=00C2FF)
+![Focus](https://img.shields.io/badge/FOCUS-AppSec%20%2B%20Web%20Dev-00C2FF?style=flat-square&labelColor=0D1117&color=00C2FF)
 &nbsp;
 ![Status](https://img.shields.io/badge/STATUS-Building%20%F0%9F%94%A5-00C2FF?style=flat-square&labelColor=0D1117&color=00C2FF)
 
@@ -30,9 +30,9 @@
 
 B.Tech CSE · Parul University · 2024–28
 
-Founder & Solo Technical Co-founder — building **Saferics**, a B2B team chat platform for Indian SMBs.
+Full stack developer with a security-first mindset.
 
-Full stack. Shipping real products, not side projects.
+Building real systems, not side projects.
 
 **AppSec isn't a feature I add.**
 **It's how I think from line one.**
@@ -53,37 +53,13 @@ Full stack. Shipping real products, not side projects.
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Postgres](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
----
-
-## ⚡ What's Brewing
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/──────────────────────────────────────────────────────-0D1117?style=for-the-badge"/>
-
-### 🔒 SAFERICS
-
-**B2B Team Chat · Built for Indian SMBs**
-
-`Multi-tenant` &nbsp; `Real-time` &nbsp; `Secure` &nbsp; `Scalable`
-
-![Status](https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT%20%E2%80%94%20BETA%20SOON-00C2FF?style=for-the-badge&labelColor=0D1117)
-
-<img src="https://img.shields.io/badge/──────────────────────────────────────────────────────-0D1117?style=for-the-badge"/>
-
-*Something meaningful is being built. Stay tuned.*
 
 </div>
 
@@ -100,24 +76,22 @@ Full stack. Shipping real products, not side projects.
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![Helmet](https://img.shields.io/badge/Helmet.js-000000?style=flat-square&logo=helmet&logoColor=white)
 
 `HTTP-only cookies` `Helmet headers` `Rate limiting` `NoSQL injection guard` `XSS sanitization` `CORS allowlisting`
 
 <br/>
 
-### 💬 Zappy — Real-Time Secure Chat
+### 💬 Zappy — Real-Time Secure Chat &nbsp; · &nbsp; [🌐 Live](https://zappy-nine.vercel.app)
 
-> My AppSec learning ground. Full-stack chat with security-first architecture. Phase 2 = live vulnerability testing lab.
+> Full-stack chat with security-first architecture. OTP auth, JWT in HTTP-only cookies, MongoDB injection prevention, rate limiting, real-time messaging.
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
-`Typing indicators` `Read receipts` `OTP signup` `Image sharing` `Dark/light mode`
+`OTP signup` `XSS protection` `Injection prevention` `Typing indicators` `Image sharing`
 
 <br/>
 
@@ -141,6 +115,16 @@ Full stack. Shipping real products, not side projects.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=white)
 
+<br/>
+
+### 🏨 Hostel Management System
+
+> Role-based platform (Admin · Warden · Student) with strict RBAC, room allocation, leave management, complaint tracking, and mess menu control.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+
 ---
 
 ## 🏆 Achievements
@@ -150,8 +134,10 @@ Full stack. Shipping real products, not side projects.
 | | |
 |:---:|:---|
 | 🥇 | **Odoo × Parul University Hackathon** — Qualified + Reached Finals as Team Lead |
-| 🎓 | **IBM** — Python Certification |
-| ☁️ | **Oracle OCI** — Cloud Infrastructure Foundations |
+| 🛡️ | **IBM** — Cybersecurity Fundamentals & Python Certification |
+| 🤖 | **IBM SkillsBuild** — Getting Started with Artificial Intelligence |
+| ☁️ | **Oracle OCI** — AI Foundations Certified Associate |
+| ☁️ | **AWS** — Cloud Foundations + Cloud Practitioner Essentials |
 
 </div>
 
