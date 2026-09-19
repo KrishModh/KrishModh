@@ -32,17 +32,16 @@
 
 </div>
 
-```js
-const krish = {
-  education : "B.Tech CSE @ Parul University (2024–28)",
-  role      : "Full Stack Developer",
-  focus     : ["Web Development", "Application Security", "API Design"],
-  stack     : ["React", "Node.js", "Flask", "PostgreSQL", "MongoDB"],
-  security  : ["JWT Auth", "OWASP Top 10", "XSS Prevention", "RBAC", "Rate Limiting"],
-  cloud     : ["AWS", "Oracle OCI", "Microsoft Azure"],
-  approach  : "Build → Analyze → Break → Fix → Improve",
-  contact   : "rmodh4@gmail.com"
-};
+```yaml
+Name       : Krish Modh
+Education  : B.Tech CSE @ Parul University (2024-28)
+Role       : Full Stack Developer
+Focus      : Web Development | Application Security | API Design
+Stack      : React · Node.js · Flask · PostgreSQL · MongoDB
+Security   : JWT Auth · OWASP Top 10 · XSS Prevention · RBAC · Rate Limiting
+Cloud      : AWS · Oracle OCI · Microsoft Azure
+Approach   : Build → Analyze → Break → Fix → Improve
+Contact    : rmodh4@gmail.com
 ```
 
 ---
